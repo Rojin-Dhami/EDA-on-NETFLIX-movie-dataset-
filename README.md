@@ -1,1 +1,1 @@
-# EDA-on-NETFLIX-movie-dataset-
+# EDA-on-NETFLIX-movies-dataset
